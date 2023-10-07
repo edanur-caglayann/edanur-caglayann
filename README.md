@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edanur Çağlayan</h1>
 <h3 align="center">Computer Engineer Student</h3>
 <div align="center" object-fit"cover">
-  <a href="https://resimlink.com/ScpgW" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/ScpgW.jpg" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+<a href="https://resimlink.com/EDHK5x4v" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/EDHK5x4v.jpg" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
   <img src="https://media.licdn.com/dms/image/D4D16AQGqqOz152rBvA/profile-displaybackgroundimage-shrink_350_1400/0/1690203805096?e=1697068800&v=beta&t=sdUnrh54oJD6sNbU4-GkVGiOxgbRUTytaHtLD5Y3ZVs">
 
 <h3 align="center"> 👩🏻‍💻 About Me</h3>
