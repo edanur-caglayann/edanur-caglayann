@@ -11,11 +11,11 @@
 
 <p> Merhaba, ben Edanur Çağlayan. Fırat Üniversitesi Bilgisayar Mühendisliği bölümü öğrencisiyim ve web uygulama geliştirme konusunda büyük bir ilgiye sahibim. Her gün kendimi geliştirerek, modern teknolojileri kullanarak kullanıcıların etkileşimli ve işlevsel deneyimler yaşamalarını sağlayan web projeleri oluşturmak beni heyecanlandırıyor. Özellikle Next.js ve TailwindCSS gibi güncel teknolojileri kullanarak projelerimi geliştirmeye çalışıyorum. </p>
 
-- 🌱 I’m currently learning **React.js, NET Core**
+🌱 I’m currently learning **React.js, NET Core**
 
-- 💬 Ask me about **Java, Javascript, CSS and HTML**
+ 💬 Ask me about **Java, Javascript, CSS and HTML**
 
-- 📫 How to reach me **caglayanedanur23@gmail.com**
+📫 How to reach me **caglayanedanur23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
