@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edanur-caglayann" alt="edanur-caglayann" /></a> </p>
 
-<p> Merhaba, ben Ben Edanur Çağlayan. Fırat Üniversitesi Bilgisayar Mühendisliği bölümü öğrencisiyim ve web uygulama geliştirme konusunda büyük bir ilgiye sahibim. Her gün kendimi geliştirerek, modern teknolojileri kullanarak kullanıcıların etkileşimli ve işlevsel deneyimler yaşamalarını sağlayan web projeleri oluşturmak beni heyecanlandırıyor. Özellikle Next.js ve TailwindCSS gibi güncel teknolojileri kullanarak projelerimi geliştirmeye çalışıyorum. </p>
+<p> Merhaba, ben Edanur Çağlayan. Fırat Üniversitesi Bilgisayar Mühendisliği bölümü öğrencisiyim ve web uygulama geliştirme konusunda büyük bir ilgiye sahibim. Her gün kendimi geliştirerek, modern teknolojileri kullanarak kullanıcıların etkileşimli ve işlevsel deneyimler yaşamalarını sağlayan web projeleri oluşturmak beni heyecanlandırıyor. Özellikle Next.js ve TailwindCSS gibi güncel teknolojileri kullanarak projelerimi geliştirmeye çalışıyorum. </p>
 
 - 🌱 I’m currently learning **React.js, NET Core**
 
