@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React.js, NET Core**
 
-- 💬 Ask me about **java,javascript,CSS and HTML**
+- 💬 Ask me about **Java, Javascript, CSS and HTML**
 
 - 📫 How to reach me **caglayanedanur23@gmail.com**
 
