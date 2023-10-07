@@ -3,7 +3,7 @@
 <div align="center" object-fit"cover">
   <img src="https://media.licdn.com/dms/image/D4D16AQGqqOz152rBvA/profile-displaybackgroundimage-shrink_350_1400/0/1690203805096?e=1697068800&v=beta&t=sdUnrh54oJD6sNbU4-GkVGiOxgbRUTytaHtLD5Y3ZVs">
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">About Me</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edanur-caglayann&label=Profile%20views&color=0e75b6&style=flat" alt="edanur-caglayann" /> </p>
 
