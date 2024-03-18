@@ -16,15 +16,12 @@ projeler üretmek için heyecan duyuyorum.
  💬 Ask me about **Java, Javascript, CSS and HTML,React.js, NET Core**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/edanurcaglayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edanurcaglayan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/edanur-caglayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="edanur-caglayan" height="30" width="40" /></a>
 <a href="https://medium.com/@caglayanedanur23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@caglayanedanur23" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/caglayanedanur23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="caglayanedanur23" height="30" width="40" /></a>
 </p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edanur-caglayann&" alt="edanur-caglayann" /></p>
 
 </div>
