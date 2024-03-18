@@ -15,7 +15,6 @@ projeler üretmek için heyecan duyuyorum.
 
  💬 Ask me about **Java, Javascript, CSS and HTML,React.js, NET Core**
 
-📫 How to reach me **caglayanedanur23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
