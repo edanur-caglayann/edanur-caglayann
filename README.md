@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edanur Çağlayan</h1>
 <h3 align="center">Computer Engineer Student</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edanur-caglayann&label=Profile%20views&color=0e75b6&style=flat" alt="edanur-caglayann" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edanur-caglayann" alt="edanur-caglayann" /></a> </p>
-
 <p> Merhaba, ben Edanur Çağlayan.Bilgisayar mühendisliği öğrencisi olarak, web yazılımları alanında kendimi sürekli geliştiriyorum. .NET
 Core ve Frontend teknolojilerinde geliştirme yapıyorum ve geliştirme süreçlerimde TypeScript'i
 etkin bir şekilde kullanıyorum. Aynı zamanda, Rust programlama dili üzerinde yoğunlaşarak, Solana
@@ -16,7 +11,7 @@ hareket eden biri olarak, web teknolojileri ve blockchain alanında kendimi iler
 projeler üretmek için heyecan duyuyorum.
 </p>
 
-🌱 I’m currently learning **Rust,Smart Contract**
+🌱 I’m currently learning **Rust, Smart Contract**
 
  💬 Ask me about **Java, Javascript, CSS and HTML,React.js, NET Core**
 
