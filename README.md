@@ -8,7 +8,7 @@ I am open to new ideas, possess strong problem-solving skills, and have a passio
 
 🌱 I’m currently learning **Rust, Smart Contract**
 
- 💬 Ask me about **Java, Javascript, CSS and HTML,React.js,Typescript,Next.js, .NET Core**
+ 💬 Ask me about **Java, Javascript, CSS and HTML, React.js, Typescript, Next.js, .NET Core**
 
 
 <h3 align="center">Connect with me:</h3>
