@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Edanur Çağlayan</h1>
 <h3 align="center">Computer Engineer Student</h3>
 
-<p>Hello, I'm Edanur Çağlayan. I am a computer engineering student, continuously developing my skills in web development. I am proficient in .NET Core framework for backend developlement like API and i prefere Next.js with Typescript for development frontend application and I effectively use Rust programming language in my development processes for creating smart contract in solana chain. 
+<p>I’m a dedicated Software Engineer with expertise in Rust, .NET Core, and Solana smart contracts. Driven by a passion for innovation, I constantly expand my skill set through diverse web and blockchain projects, staying up-to-date with the latest technology trends.
 
-I am open to new ideas, possess strong problem-solving skills, and have a passion for continuous learning and improvement. I am excited to advance in web technologies and blockchain, and to create high-quality projects.
+Skills and Expertise: Proficient in Rust with extensive experience developing smart contracts on the Solana blockchain.
+
+Featured Projects: Sol-PR: A hackathon project designed to streamline GitHub PR approvals using SOL token incentives. Submitted to the 2024 Radar Solana Hackathon. Sol-pr Repo
+
+Achievements: 
+🥈 2024 Istanbul Radar Hackathon Demo Day - 2nd Place
+🥈 2024 Turkey Solana Hackathon - 2nd Place
+🥉 2024 Web3 Ideathon & Team Building - 3rd Place
 </p>
 
-🌱 I’m currently learning **Rust, Smart Contract**
 
- 💬 Ask me about **Java, Javascript, CSS and HTML, React.js, Typescript, Next.js, .NET Core**
+
+ 💬 Ask me about **Java, Javascript, CSS and HTML, React.js, Typescript, Next.js**
 
 
 <h3 align="center">Connect with me:</h3>
