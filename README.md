@@ -8,9 +8,9 @@ Skills and Expertise: Proficient in Rust with extensive experience developing sm
 Featured Projects: Sol-PR: A hackathon project designed to streamline GitHub PR approvals using SOL token incentives. Submitted to the 2024 Radar Solana Hackathon. Sol-pr Repo
 
 Achievements: 
-🥈 2024 Istanbul Radar Hackathon Demo Day - 2nd Place
-🥈 2024 Turkey Solana Hackathon - 2nd Place
-🥉 2024 Web3 Ideathon & Team Building - 3rd Place
+**🥈 2024 Istanbul Radar Hackathon Demo Day - 2nd Place**
+**🥈 2024 Turkey Solana Hackathon - 2nd Place**
+**🥉 2024 Web3 Ideathon & Team Building - 3rd Place**
 </p>
 
 
